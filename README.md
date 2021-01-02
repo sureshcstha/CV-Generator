@@ -1,1 +1,1 @@
-# CS3620-CV-Generator-
+# CV-Generator
